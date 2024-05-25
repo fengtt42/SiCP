@@ -23,7 +23,7 @@
 
 - Support dataset
     - [x] [OPV2V [ICRA2022]](https://mobility-lab.seas.ucla.edu/opv2v/)
-    - [ ] [V2V4Real [CVPR2023]](https://arxiv.org/abs/2303.07601) (Will relase the code soon)
+    - [x] [V2V4Real [CVPR2023]](https://arxiv.org/abs/2303.07601) (Will release the code soon)
  
 ## Dataset Preparation
 - Download the [OPV2V](https://drive.google.com/drive/folders/1dkDeHlwOVbmgXcDazZvO6TFEZ6V_7WUu) and [V2V4Real](https://mobility-lab.seas.ucla.edu/v2v4real/) datasets.
